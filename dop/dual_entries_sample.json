@@ -1,0 +1,4264 @@
+{
+  "source": "sample of 100 prefixes",
+  "total_indexed": 4847,
+  "words_needing_dual_entries": [
+    {
+      "word": "abhinippanna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005375",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005382",
+          "h1": 15005379,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apakatatta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004203",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15030721",
+          "h1": 15030720,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abbāheti",
+      "count_in_dop": 4,
+      "entries": [
+        {
+          "id": "15004913",
+          "h1": 15004904,
+          "is_independent": false
+        },
+        {
+          "id": "15008979",
+          "h1": 15008977,
+          "is_independent": false
+        },
+        {
+          "id": "15004920",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004922",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apphoṭita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004882",
+          "h1": 15004879,
+          "is_independent": false
+        },
+        {
+          "id": "15004878",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anajjhottharaṇīya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002494",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15001060",
+          "h1": 15001055,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhijjhita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005239",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005224",
+          "h1": 15005223,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "appiccha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004665",
+          "h1": 15004653,
+          "is_independent": false
+        },
+        {
+          "id": "15004843",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "aneja",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15013538",
+          "h1": 15013536,
+          "is_independent": false
+        },
+        {
+          "id": "15003790",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajjhārūha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000971",
+          "h1": 15000970,
+          "is_independent": false
+        },
+        {
+          "id": "15000976",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "alya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006441",
+          "h1": 15006440,
+          "is_independent": false
+        },
+        {
+          "id": "15006468",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajjhesita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001032",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15001029",
+          "h1": 15001027,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhibhunāti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005549",
+          "h1": 15005545,
+          "is_independent": false
+        },
+        {
+          "id": "15005564",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbhuṇṇata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005029",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005052",
+          "h1": 15005050,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abudha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15039472",
+          "h1": 15039471,
+          "is_independent": false
+        },
+        {
+          "id": "15004895",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajjhārūḷha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000975",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000979",
+          "h1": 15000977,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "agghāpeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000426",
+          "h1": 15000425,
+          "is_independent": false
+        },
+        {
+          "id": "15000435",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhīta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002422",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002428",
+          "h1": 15002424,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anūpanāhin",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15011632",
+          "h1": 15011630,
+          "is_independent": false
+        },
+        {
+          "id": "15003775",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apasmāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004370",
+          "h1": 15004369,
+          "is_independent": false
+        },
+        {
+          "id": "15004488",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "andhakāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004079",
+          "h1": 15004074,
+          "is_independent": false
+        },
+        {
+          "id": "15004094",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appekacca",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004580",
+          "h1": 15004564,
+          "is_independent": false
+        },
+        {
+          "id": "15004854",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anūpama",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003778",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15011809",
+          "h1": 15011805,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhijalati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005221",
+          "h1": 15005220,
+          "is_independent": false
+        },
+        {
+          "id": "15005191",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appaṭisandheya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004774",
+          "h1": 15004773,
+          "is_independent": false
+        },
+        {
+          "id": "15004776",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apakāsati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004207",
+          "h1": 15004206,
+          "is_independent": false
+        },
+        {
+          "id": "15004213",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "alaṅkaraṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006367",
+          "h1": 15006358,
+          "is_independent": false
+        },
+        {
+          "id": "15006388",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinīhaṭa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005468",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005472",
+          "h1": 15005471,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "akāruṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15015969",
+          "h1": 15015964,
+          "is_independent": false
+        },
+        {
+          "id": "15000059",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anopa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003766",
+          "h1": 15003764,
+          "is_independent": false
+        },
+        {
+          "id": "15003820",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "antarahita",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15003923",
+          "h1": 15003922,
+          "is_independent": false
+        },
+        {
+          "id": "15003915",
+          "h1": 15003873,
+          "is_independent": false
+        },
+        {
+          "id": "15003927",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinibbijjayati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005391",
+          "h1": 15005390,
+          "is_independent": false
+        },
+        {
+          "id": "15005408",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000001",
+          "h1": 15000000,
+          "is_independent": false
+        },
+        {
+          "id": "15000057",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "aputtaka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004615",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15037924",
+          "h1": 15037923,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "akujjana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15017769",
+          "h1": 15017766,
+          "is_independent": false
+        },
+        {
+          "id": "15000066",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajjhotthaṭa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001056",
+          "h1": 15001055,
+          "is_independent": false
+        },
+        {
+          "id": "15001051",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "addhanakha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002108",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004084",
+          "h1": 15004074,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anupa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003765",
+          "h1": 15003764,
+          "is_independent": false
+        },
+        {
+          "id": "15003047",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anāgāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002586",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000230",
+          "h1": 15000226,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abbhocchinna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004940",
+          "h1": 15004939,
+          "is_independent": false
+        },
+        {
+          "id": "15005085",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apalekhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004436",
+          "h1": 15004435,
+          "is_independent": false
+        },
+        {
+          "id": "15004437",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhibyañjaka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005784",
+          "h1": 15005783,
+          "is_independent": false
+        },
+        {
+          "id": "15005538",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "aparādheti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004404",
+          "h1": 15004402,
+          "is_independent": false
+        },
+        {
+          "id": "15004421",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhippasādeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005532",
+          "h1": 15005530,
+          "is_independent": false
+        },
+        {
+          "id": "15005528",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anāgāriya",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15002480",
+          "h1": 15002479,
+          "is_independent": false
+        },
+        {
+          "id": "15002587",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000245",
+          "h1": 15000235,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "adhibhoti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002315",
+          "h1": 15002314,
+          "is_independent": false
+        },
+        {
+          "id": "15002321",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "accuṇṇati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000689",
+          "h1": 15000688,
+          "is_independent": false
+        },
+        {
+          "id": "15000680",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "accagamā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001596",
+          "h1": 15001595,
+          "is_independent": false
+        },
+        {
+          "id": "15000597",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhivāsita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002393",
+          "h1": 15002389,
+          "is_independent": false
+        },
+        {
+          "id": "15002387",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhiññeyya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005251",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005202",
+          "h1": 15005200,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apāyati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004644",
+          "h1": 15004643,
+          "is_independent": false
+        },
+        {
+          "id": "15004549",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "andhita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004101",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004107",
+          "h1": 15004105,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "aggiya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000412",
+          "h1": 15000411,
+          "is_independent": false
+        },
+        {
+          "id": "15000415",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbuhana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004917",
+          "h1": 15004915,
+          "is_independent": false
+        },
+        {
+          "id": "15004930",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinisinna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005454",
+          "h1": 15005453,
+          "is_independent": false
+        },
+        {
+          "id": "15005452",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhigata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005149",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005143",
+          "h1": 15005142,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anuesati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004190",
+          "h1": 15004189,
+          "is_independent": false
+        },
+        {
+          "id": "15002723",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhiṇata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005254",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005331",
+          "h1": 15005330,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "adhagga",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002440",
+          "h1": 15002437,
+          "is_independent": false
+        },
+        {
+          "id": "15002138",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajjhupāgata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001007",
+          "h1": 15001004,
+          "is_independent": false
+        },
+        {
+          "id": "15001009",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appoṭheti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004880",
+          "h1": 15004879,
+          "is_independent": false
+        },
+        {
+          "id": "15004864",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "accuti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000685",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15021678",
+          "h1": 15021669,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "alaṅkāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006396",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15006368",
+          "h1": 15006358,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "appossukka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004671",
+          "h1": 15004653,
+          "is_independent": false
+        },
+        {
+          "id": "15004871",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhijaneti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005206",
+          "h1": 15005204,
+          "is_independent": false
+        },
+        {
+          "id": "15005183",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhiṭṭhita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002260",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002250",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anudiṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002994",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003013",
+          "h1": 15003011,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjhāvuttha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000990",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000984",
+          "h1": 15000983,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anupage",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15003116",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003067",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15030955",
+          "h1": 15030949,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "appatissa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004799",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004780",
+          "h1": 15004779,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "akkhaya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000124",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15018466",
+          "h1": 15018461,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anuṭṭhahati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002947",
+          "h1": 15002946,
+          "is_independent": false
+        },
+        {
+          "id": "15002916",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anoma",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003822",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15014315",
+          "h1": 15014314,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhippavaṭṭa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005521",
+          "h1": 15005519,
+          "is_independent": false
+        },
+        {
+          "id": "15005518",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "acchibaddha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000676",
+          "h1": 15000675,
+          "is_independent": false
+        },
+        {
+          "id": "15000780",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anīgha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002657",
+          "h1": 15002656,
+          "is_independent": false
+        },
+        {
+          "id": "15002697",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhibhūta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005571",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005554",
+          "h1": 15005545,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anupanna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003117",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003072",
+          "h1": 15003071,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "adhibhūta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002320",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002316",
+          "h1": 15002314,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apavāraṇā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004460",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15036167",
+          "h1": 15036160,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "aphusa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004887",
+          "h1": 15004886,
+          "is_independent": false
+        },
+        {
+          "id": "15004885",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appaṭicca",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15032094",
+          "h1": 15032086,
+          "is_independent": false
+        },
+        {
+          "id": "15004752",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "aparaṇṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004407",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004379",
+          "h1": 15004377,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "adhipanna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002270",
+          "h1": 15002269,
+          "is_independent": false
+        },
+        {
+          "id": "15002285",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbhākuṭika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15040051",
+          "h1": 15040049,
+          "is_independent": false
+        },
+        {
+          "id": "15004992",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "alliyāpana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006465",
+          "h1": 15006464,
+          "is_independent": false
+        },
+        {
+          "id": "15006450",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anupadeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003273",
+          "h1": 15003271,
+          "is_independent": false
+        },
+        {
+          "id": "15003106",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anuddayatā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003002",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002967",
+          "h1": 15002966,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "appagabbha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15030934",
+          "h1": 15030933,
+          "is_independent": false
+        },
+        {
+          "id": "15004723",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appekadā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004581",
+          "h1": 15004564,
+          "is_independent": false
+        },
+        {
+          "id": "15004855",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apañjasa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004283",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15031692",
+          "h1": 15031691,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apithīyati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004585",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004591",
+          "h1": 15004589,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apakkanta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004220",
+          "h1": 15004219,
+          "is_independent": false
+        },
+        {
+          "id": "15004217",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appatikkha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004790",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004748",
+          "h1": 15004747,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "allīna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006456",
+          "h1": 15006454,
+          "is_independent": false
+        },
+        {
+          "id": "15006453",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anoka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15013770",
+          "h1": 15013765,
+          "is_independent": false
+        },
+        {
+          "id": "15003803",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apaṇṇattika",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15004735",
+          "h1": 15004733,
+          "is_independent": false
+        },
+        {
+          "id": "15004739",
+          "h1": 15004737,
+          "is_independent": false
+        },
+        {
+          "id": "15004295",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anugata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002786",
+          "h1": 15002785,
+          "is_independent": false
+        },
+        {
+          "id": "15002794",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anedha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15013599",
+          "h1": 15013598,
+          "is_independent": false
+        },
+        {
+          "id": "15003793",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anātidesa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002595",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15001630",
+          "h1": 15001629,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "aneka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15013451",
+          "h1": 15013211,
+          "is_independent": false
+        },
+        {
+          "id": "15003787",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anārādhika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15008594",
+          "h1": 15008592,
+          "is_independent": false
+        },
+        {
+          "id": "15002624",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbhita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005075",
+          "h1": 15005074,
+          "is_independent": false
+        },
+        {
+          "id": "15005008",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhigantabba",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005150",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005144",
+          "h1": 15005142,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anosita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003835",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15014596",
+          "h1": 15014595,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "antaradhāyana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003926",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003897",
+          "h1": 15003873,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apagata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004225",
+          "h1": 15004224,
+          "is_independent": false
+        },
+        {
+          "id": "15004226",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apalokina",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004447",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15036033",
+          "h1": 15036031,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjuṇho",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000879",
+          "h1": 15000878,
+          "is_independent": false
+        },
+        {
+          "id": "15000895",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhitatta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005268",
+          "h1": 15005267,
+          "is_independent": false
+        },
+        {
+          "id": "15005266",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinīta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005464",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005476",
+          "h1": 15005475,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "appaññatti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15031701",
+          "h1": 15031698,
+          "is_independent": false
+        },
+        {
+          "id": "15004732",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apaccakkosana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004271",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15031073",
+          "h1": 15031072,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhippakiṇṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005511",
+          "h1": 15005510,
+          "is_independent": false
+        },
+        {
+          "id": "15005509",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhijigīsati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005208",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005215",
+          "h1": 15005214,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhidosika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15008246",
+          "h1": 15008245,
+          "is_independent": false
+        },
+        {
+          "id": "15005309",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anupatita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003088",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003085",
+          "h1": 15003084,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "adhipateyya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15007975",
+          "h1": 15007974,
+          "is_independent": false
+        },
+        {
+          "id": "15002283",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anudeva",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004142",
+          "h1": 15004141,
+          "is_independent": false
+        },
+        {
+          "id": "15003000",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anokāsa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15013800",
+          "h1": 15013797,
+          "is_independent": false
+        },
+        {
+          "id": "15003804",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "alaṅkata",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15006365",
+          "h1": 15006358,
+          "is_independent": false
+        },
+        {
+          "id": "15006386",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15006392",
+          "h1": 15006391,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "appabodhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004360",
+          "h1": 15004359,
+          "is_independent": false
+        },
+        {
+          "id": "15004810",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "accheti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000721",
+          "h1": 15000720,
+          "is_independent": false
+        },
+        {
+          "id": "15000789",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhiṭṭhāti",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15002254",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002258",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002240",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajjhāciṇṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000938",
+          "h1": 15000937,
+          "is_independent": false
+        },
+        {
+          "id": "15000943",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apakaṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004208",
+          "h1": 15004206,
+          "is_independent": false
+        },
+        {
+          "id": "15004198",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apilandhana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15037621",
+          "h1": 15037617,
+          "is_independent": false
+        },
+        {
+          "id": "15004595",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akkanta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000075",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000078",
+          "h1": 15000077,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhidhammika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15008249",
+          "h1": 15008248,
+          "is_independent": false
+        },
+        {
+          "id": "15005319",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anuḍahana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002986",
+          "h1": 15002985,
+          "is_independent": false
+        },
+        {
+          "id": "15002934",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appatiṭṭhīna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15033381",
+          "h1": 15033375,
+          "is_independent": false
+        },
+        {
+          "id": "15004795",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adu",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15007935",
+          "h1": 15007934,
+          "is_independent": false
+        },
+        {
+          "id": "15002061",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhipāteti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002296",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002278",
+          "h1": 15002277,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apaṇeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004356",
+          "h1": 15004354,
+          "is_independent": false
+        },
+        {
+          "id": "15004290",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anupatta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003091",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003203",
+          "h1": 15003201,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anuāvaṭṭati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004170",
+          "h1": 15004169,
+          "is_independent": false
+        },
+        {
+          "id": "15002719",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anugaṇhāti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002832",
+          "h1": 15002831,
+          "is_independent": false
+        },
+        {
+          "id": "15002793",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhikkanta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005128",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005131",
+          "h1": 15005130,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjuka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000877",
+          "h1": 15000876,
+          "is_independent": false
+        },
+        {
+          "id": "15000893",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004858",
+          "h1": 15004856,
+          "is_independent": false
+        },
+        {
+          "id": "15004845",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "amarāvitakka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006047",
+          "h1": 15006043,
+          "is_independent": false
+        },
+        {
+          "id": "15006052",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ahiṅkāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15007326",
+          "h1": 15007322,
+          "is_independent": false
+        },
+        {
+          "id": "15007354",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhigameti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002210",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002194",
+          "h1": 15002187,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anukampita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002734",
+          "h1": 15002733,
+          "is_independent": false
+        },
+        {
+          "id": "15002740",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhimoceti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002334",
+          "h1": 15002332,
+          "is_independent": false
+        },
+        {
+          "id": "15002347",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appaṭimaṃsa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004757",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15032466",
+          "h1": 15032465,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhinibbatta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005395",
+          "h1": 15005394,
+          "is_independent": false
+        },
+        {
+          "id": "15005392",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anvaddhamāsaṃ",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004143",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004135",
+          "h1": 15004134,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anāriya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006322",
+          "h1": 15006297,
+          "is_independent": false
+        },
+        {
+          "id": "15002625",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apacinana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004255",
+          "h1": 15004254,
+          "is_independent": false
+        },
+        {
+          "id": "15004258",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appatikā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004297",
+          "h1": 15004296,
+          "is_independent": false
+        },
+        {
+          "id": "15004788",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhitiṭṭhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002252",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002256",
+          "h1": 15002252,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhibyāpeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005790",
+          "h1": 15005789,
+          "is_independent": false
+        },
+        {
+          "id": "15005541",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinibbijjana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005389",
+          "h1": 15005388,
+          "is_independent": false
+        },
+        {
+          "id": "15005407",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anutapati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002938",
+          "h1": 15002937,
+          "is_independent": false
+        },
+        {
+          "id": "15002935",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akkheyya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000151",
+          "h1": 15000148,
+          "is_independent": false
+        },
+        {
+          "id": "15000194",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apaviyūhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004364",
+          "h1": 15004362,
+          "is_independent": false
+        },
+        {
+          "id": "15004469",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apabyūhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004363",
+          "h1": 15004362,
+          "is_independent": false
+        },
+        {
+          "id": "15004368",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhiṭṭhātabba",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002261",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002238",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anodaka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003815",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15010810",
+          "h1": 15010726,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anūnaka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003763",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15013133",
+          "h1": 15013127,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anāvaṭṭanā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004173",
+          "h1": 15004172,
+          "is_independent": false
+        },
+        {
+          "id": "15002632",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhipacca",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15007972",
+          "h1": 15007971,
+          "is_independent": false
+        },
+        {
+          "id": "15002268",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anuka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001506",
+          "h1": 15001505,
+          "is_independent": false
+        },
+        {
+          "id": "15002726",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinipphanna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005381",
+          "h1": 15005379,
+          "is_independent": false
+        },
+        {
+          "id": "15005385",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "antaradhāpanā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003920",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003896",
+          "h1": 15003873,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apiha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15037695",
+          "h1": 15037694,
+          "is_independent": false
+        },
+        {
+          "id": "15004604",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appativattiya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004798",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004760",
+          "h1": 15004759,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhipuṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005500",
+          "h1": 15005499,
+          "is_independent": false
+        },
+        {
+          "id": "15005502",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anuciṇṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002866",
+          "h1": 15002865,
+          "is_independent": false
+        },
+        {
+          "id": "15002871",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhijjhitar",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005229",
+          "h1": 15005228,
+          "is_independent": false
+        },
+        {
+          "id": "15005240",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhisayita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002406",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002416",
+          "h1": 15002414,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004553",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15037084",
+          "h1": 15037071,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjhosita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001073",
+          "h1": 15001072,
+          "is_independent": false
+        },
+        {
+          "id": "15001077",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akkuṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000096",
+          "h1": 15000095,
+          "is_independent": false
+        },
+        {
+          "id": "15000083",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anopama",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15011810",
+          "h1": 15011805,
+          "is_independent": false
+        },
+        {
+          "id": "15003821",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhippasanna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005524",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005531",
+          "h1": 15005530,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anuāviṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002720",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004178",
+          "h1": 15004176,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjhohaṭa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001080",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15001084",
+          "h1": 15001083,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abbhāmatta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004951",
+          "h1": 15004946,
+          "is_independent": false
+        },
+        {
+          "id": "15005003",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anūna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003762",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15013126",
+          "h1": 15013115,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000883",
+          "h1": 15000882,
+          "is_independent": false
+        },
+        {
+          "id": "15000898",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akārabhāva",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000058",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15016506",
+          "h1": 15016501,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "addhuva",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002129",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15027823",
+          "h1": 15027815,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anālapanatā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002627",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15008722",
+          "h1": 15008721,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "adhiṭṭheti",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15002255",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002259",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002251",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002073",
+          "h1": 15002072,
+          "is_independent": false
+        },
+        {
+          "id": "15002044",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anūpadhīka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003113",
+          "h1": 15003112,
+          "is_independent": false
+        },
+        {
+          "id": "15003774",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbūhana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004918",
+          "h1": 15004915,
+          "is_independent": false
+        },
+        {
+          "id": "15004935",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhippavuṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005520",
+          "h1": 15005519,
+          "is_independent": false
+        },
+        {
+          "id": "15005523",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apaiti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004645",
+          "h1": 15004643,
+          "is_independent": false
+        },
+        {
+          "id": "15004196",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apakkaṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004216",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004209",
+          "h1": 15004206,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhiuyyāta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005057",
+          "h1": 15005055,
+          "is_independent": false
+        },
+        {
+          "id": "15005108",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhakkhaka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002136",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002439",
+          "h1": 15002437,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anupaddava",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003108",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15011552",
+          "h1": 15011551,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "aniṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002663",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15009524",
+          "h1": 15009512,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "antaradhāna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003895",
+          "h1": 15003873,
+          "is_independent": false
+        },
+        {
+          "id": "15003918",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anūpaghāta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003772",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15011335",
+          "h1": 15011333,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "appakāra",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15030750",
+          "h1": 15030749,
+          "is_independent": false
+        },
+        {
+          "id": "15004720",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinimmita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005427",
+          "h1": 15005426,
+          "is_independent": false
+        },
+        {
+          "id": "15005424",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "antaradhāpeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003921",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15003924",
+          "h1": 15003922,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abbūḷhita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004910",
+          "h1": 15004904,
+          "is_independent": false
+        },
+        {
+          "id": "15004932",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhigamanīya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005145",
+          "h1": 15005142,
+          "is_independent": false
+        },
+        {
+          "id": "15005154",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhigata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002191",
+          "h1": 15002187,
+          "is_independent": false
+        },
+        {
+          "id": "15002201",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhicetasika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15008240",
+          "h1": 15008239,
+          "is_independent": false
+        },
+        {
+          "id": "15005172",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinipphādeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005387",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005383",
+          "h1": 15005379,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "andhakāraka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004080",
+          "h1": 15004074,
+          "is_independent": false
+        },
+        {
+          "id": "15004098",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbūḷha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004931",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004908",
+          "h1": 15004904,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abbhussukkamāna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005062",
+          "h1": 15005061,
+          "is_independent": false
+        },
+        {
+          "id": "15005071",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anantarika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003958",
+          "h1": 15003957,
+          "is_independent": false
+        },
+        {
+          "id": "15002523",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbāhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004907",
+          "h1": 15004904,
+          "is_independent": false
+        },
+        {
+          "id": "15004919",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anukujjati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002762",
+          "h1": 15002761,
+          "is_independent": false
+        },
+        {
+          "id": "15002753",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhiniveseti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005451",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005443",
+          "h1": 15005441,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjhogāḷha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001043",
+          "h1": 15001042,
+          "is_independent": false
+        },
+        {
+          "id": "15001040",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apanīta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004357",
+          "h1": 15004354,
+          "is_independent": false
+        },
+        {
+          "id": "15004347",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhiggahīta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002199",
+          "h1": 15002197,
+          "is_independent": false
+        },
+        {
+          "id": "15002214",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appaccaya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004727",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15031164",
+          "h1": 15031158,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apaṇata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004287",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004335",
+          "h1": 15004333,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjhāruhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000978",
+          "h1": 15000977,
+          "is_independent": false
+        },
+        {
+          "id": "15000974",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appadhaṃsika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004808",
+          "h1": 15004807,
+          "is_independent": false
+        },
+        {
+          "id": "15004804",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhitthuta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005289",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005286",
+          "h1": 15005285,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anūpaya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003779",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15011832",
+          "h1": 15011827,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "agghika",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000440",
+          "h1": 15000439,
+          "is_independent": false
+        },
+        {
+          "id": "15000436",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhiññāta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005201",
+          "h1": 15005200,
+          "is_independent": false
+        },
+        {
+          "id": "15005249",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhiṭṭhahati",
+      "count_in_dop": 3,
+      "entries": [
+        {
+          "id": "15002253",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002257",
+          "h1": 15002252,
+          "is_independent": false
+        },
+        {
+          "id": "15002237",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhibhāyatana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005569",
+          "h1": 15005568,
+          "is_independent": false
+        },
+        {
+          "id": "15005560",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anugantabba",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002797",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002787",
+          "h1": 15002785,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjhappattā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000921",
+          "h1": 15000920,
+          "is_independent": false
+        },
+        {
+          "id": "15000925",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appatiṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15033344",
+          "h1": 15033343,
+          "is_independent": false
+        },
+        {
+          "id": "15004791",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "aneñja",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15008064",
+          "h1": 15008063,
+          "is_independent": false
+        },
+        {
+          "id": "15003792",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anugīta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002816",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002810",
+          "h1": 15002809,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apāṅga",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004234",
+          "h1": 15004233,
+          "is_independent": false
+        },
+        {
+          "id": "15004516",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anvāvaṭṭa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004171",
+          "h1": 15004169,
+          "is_independent": false
+        },
+        {
+          "id": "15004168",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "addhābhavati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002114",
+          "h1": 15002113,
+          "is_independent": false
+        },
+        {
+          "id": "15002127",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinippajjati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005380",
+          "h1": 15005379,
+          "is_independent": false
+        },
+        {
+          "id": "15005372",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajjhiṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001028",
+          "h1": 15001027,
+          "is_independent": false
+        },
+        {
+          "id": "15001000",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anunīta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003045",
+          "h1": 15003043,
+          "is_independent": false
+        },
+        {
+          "id": "15003041",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appodaka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004870",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004669",
+          "h1": 15004653,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ajjhāpanna",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000949",
+          "h1": 15000948,
+          "is_independent": false
+        },
+        {
+          "id": "15000955",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apanihita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004343",
+          "h1": 15004342,
+          "is_independent": false
+        },
+        {
+          "id": "15004346",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhinihata",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005460",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005462",
+          "h1": 15005461,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anuḍahati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002982",
+          "h1": 15002981,
+          "is_independent": false
+        },
+        {
+          "id": "15002933",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhiniviṭṭha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005442",
+          "h1": 15005441,
+          "is_independent": false
+        },
+        {
+          "id": "15005440",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abbūhita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004912",
+          "h1": 15004904,
+          "is_independent": false
+        },
+        {
+          "id": "15004936",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "apihālu",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004605",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15037698",
+          "h1": 15037697,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apatthiya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15033620",
+          "h1": 15033619,
+          "is_independent": false
+        },
+        {
+          "id": "15004312",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "adhigamāpeti",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002196",
+          "h1": 15002187,
+          "is_independent": false
+        },
+        {
+          "id": "15002209",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "abhijāta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005193",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005205",
+          "h1": 15005204,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anūpavāda",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003781",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15011995",
+          "h1": 15011993,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anūdaka",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003761",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15010809",
+          "h1": 15010726,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anuāgantvā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002716",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15004155",
+          "h1": 15004154,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "anuññeyya",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002914",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15002892",
+          "h1": 15002890,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abbuhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004905",
+          "h1": 15004904,
+          "is_independent": false
+        },
+        {
+          "id": "15004929",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "alliyati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15006448",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15006455",
+          "h1": 15006454,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "apanayati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004355",
+          "h1": 15004354,
+          "is_independent": false
+        },
+        {
+          "id": "15004337",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anaññatha",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15001191",
+          "h1": 15001186,
+          "is_independent": false
+        },
+        {
+          "id": "15002496",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "ajā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15000826",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000801",
+          "h1": 15000800,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abbūhati",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004906",
+          "h1": 15004904,
+          "is_independent": false
+        },
+        {
+          "id": "15004934",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "appoṭhana",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15004876",
+          "h1": 15004875,
+          "is_independent": false
+        },
+        {
+          "id": "15004863",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "acorikā",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15021922",
+          "h1": 15021921,
+          "is_independent": false
+        },
+        {
+          "id": "15000594",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "addita",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15002084",
+          "h1": 15002083,
+          "is_independent": false
+        },
+        {
+          "id": "15002095",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "anottāpin",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15003813",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15014073",
+          "h1": 15014072,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "abhikiṇṇa",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15005119",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15005124",
+          "h1": 15005122,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "ahoratta",
+      "count_in_dop": 2,
+      "entries": [
+        {
+          "id": "15007320",
+          "h1": 15007316,
+          "is_independent": false
+        },
+        {
+          "id": "15007382",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    }
+  ]
+}

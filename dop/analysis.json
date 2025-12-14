@@ -1,0 +1,146 @@
+{
+  "summary": {
+    "our_independent": 111,
+    "our_as_subentry": 307,
+    "dop_has_both_count": 8,
+    "missing_from_dop": 4574
+  },
+  "dop_has_both": [
+    {
+      "word": "akkanta",
+      "entries": [
+        {
+          "id": "15000075",
+          "display": "akkanta",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000078",
+          "display": "akkanta",
+          "h1": 15000077,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "akkhaya",
+      "entries": [
+        {
+          "id": "15018466",
+          "display": "akkhaya",
+          "h1": 15018461,
+          "is_independent": false
+        },
+        {
+          "id": "15000124",
+          "display": "akkhaya",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akkheyya",
+      "entries": [
+        {
+          "id": "15000194",
+          "display": "akkheyya",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000151",
+          "display": "akkheyya",
+          "h1": 15000148,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "akkuṭṭha",
+      "entries": [
+        {
+          "id": "15000083",
+          "display": "akkuṭṭha",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15000096",
+          "display": "akkuṭṭha",
+          "h1": 15000095,
+          "is_independent": false
+        }
+      ]
+    },
+    {
+      "word": "akujjana",
+      "entries": [
+        {
+          "id": "15017769",
+          "display": "akujjana",
+          "h1": 15017766,
+          "is_independent": false
+        },
+        {
+          "id": "15000066",
+          "display": "akujjana",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akāra",
+      "entries": [
+        {
+          "id": "15000001",
+          "display": "akāra",
+          "h1": 15000000,
+          "is_independent": false
+        },
+        {
+          "id": "15000057",
+          "display": "akāra",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akārabhāva",
+      "entries": [
+        {
+          "id": "15016506",
+          "display": "akārabhāva",
+          "h1": 15016501,
+          "is_independent": false
+        },
+        {
+          "id": "15000058",
+          "display": "akārabhāva",
+          "h1": null,
+          "is_independent": true
+        }
+      ]
+    },
+    {
+      "word": "akāruṇa",
+      "entries": [
+        {
+          "id": "15000059",
+          "display": "akāruṇa",
+          "h1": null,
+          "is_independent": true
+        },
+        {
+          "id": "15015969",
+          "display": "akāruṇa",
+          "h1": 15015964,
+          "is_independent": false
+        }
+      ]
+    }
+  ]
+}

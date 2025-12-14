@@ -1,0 +1,83 @@
+/* Mobile-optimized dictionary styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: calc(16px * var(--font-size-multiplier, 1));
+    line-height: 1.5;
+    padding: 12px;
+    max-width: 100%;
+}
+
+/* Headword */
+.hw {
+    font-size: 1.3em;
+    color: #1a5f7a;
+    margin: 0.8em 0 0.4em 0;
+    font-weight: 600;
+}
+
+.hw sup {
+    font-size: 0.6em;
+    color: #666;
+}
+
+/* Sense separator */
+.sense-sep {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 1em 0;
+}
+
+/* English definitions (italic text) */
+i {
+    color: #7E2811;
+}
+
+/* Lemma/headword in definition */
+.lemma {
+    font-weight: 600;
+    color: #333;
+}
+
+/* Subscript/superscript */
+sub,
+sup {
+    font-size: 0.7em;
+    line-height: 0;
+}
+
+sub {
+    color: #888;
+}
+
+/* Blue cross-references */
+.blue,
+a {
+    color: #2962ff;
+}
+
+/* Subsenses - add some indent and marker */
+.subsense {
+    display: block;
+    margin: 0.5em 0 0.5em 1em;
+    padding-left: 0.5em;
+    border-left: 2px solid #e0e0e0;
+}
+
+/* Entry container */
+.entry,
+.sense {
+    margin: 0.5em 0;
+}
+
+/* Hide excessive nesting */
+.lemPanel>div:empty {
+    display: none;
+}
+
+/* Prevent text overflow */
+* {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    max-width: 100%;
+}
